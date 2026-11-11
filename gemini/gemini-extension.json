@@ -1,0 +1,6 @@
+{
+  "name": "unslop",
+  "version": "1.0.0",
+  "description": "Turns vibecoded, AI-looking UI into a designed interface. Corporate edition: local files only, design-system first, no external services.",
+  "contextFileName": "GEMINI.md"
+}

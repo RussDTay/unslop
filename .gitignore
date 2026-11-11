@@ -8,3 +8,4 @@ examples/*
 !examples/assets/
 examples/assets/*
 !examples/assets/blob.webp
+gemini/dist/
